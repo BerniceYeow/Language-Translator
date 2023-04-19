@@ -1,4 +1,2 @@
 streamlit
 dl-translate
-jinja2=3.0.0
-pandas
